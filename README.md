@@ -1,6 +1,7 @@
+<h1 align="left">Hi 👋, I'm PK Karn</h1>
+<h3 align="left">A enthusiast who love creating and destroying things</h3>
+<div></div>
 <img src="https://i.pinimg.com/originals/b6/ff/2e/b6ff2ec427613e0b028d090487f4142d.gif" width="100%" height="100%" />
-<h1 align="right">Hi 👋, I'm PK Karn</h1>
-<h3 align="right">A enthusiast who love creating and destroying things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkkarn&label=Profile%20views&color=0e75b6&style=flat" alt="pkkarn" /> </p>
 
