@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm PK Karn</h1>
-<h3 align="left">A enthusiast who love creating and destroying things</h3>
+<h3 align="left">An enthusiast who loves creating and destroying things</h3>
 <div></div>
 <img src="https://i.pinimg.com/originals/b6/ff/2e/b6ff2ec427613e0b028d090487f4142d.gif" width="100%" height="100%" />
 
