@@ -9,4 +9,6 @@
   - 'Skill Icons' for a modern tech stack display.
   - Better social linking and bio section.
 - **Status**: Completed. The README has been updated with the new design.
+- **Git**: Changes pushed to `main` branch.
+
 
