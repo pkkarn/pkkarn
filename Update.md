@@ -10,5 +10,7 @@
   - Better social linking and bio section.
 - **Status**: Completed. The README has been updated with the new design.
 - **Git**: Changes pushed to `main` branch.
+- **Fix**: Replaced broken external header with a custom premium generated image. Updated links and email.
+
 
 
